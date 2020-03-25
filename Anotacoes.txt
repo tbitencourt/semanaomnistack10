@@ -1,0 +1,9 @@
+Requisições HTTP
+
+GET, POST, PUT, DELETE
+
+REQUISICAO Frontend -> Backend -> RESPOSTA Front-end
+
+Protocolo WebSocket
+
+github: https://github.com/filipedeschamps/devradar
